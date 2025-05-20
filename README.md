@@ -1,4 +1,4 @@
-# 🏏 IPL Analysis Project
+# IPL Analysis Project
 
 The IPL Analysis project is a comprehensive data-driven exploration of the Indian Premier League (IPL), analyzing historical match data to uncover patterns in team performance, player statistics, and match outcomes. This project utilizes Python libraries like **Pandas**, **NumPy**, **Seaborn**, and **Matplotlib** for data manipulation, statistical computation, and visualization.
 
